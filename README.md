@@ -5,7 +5,7 @@
 ### `ML Engineer & Full-Stack AI Builder`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://portfolio-1-5gzs.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-kumari)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshita-kumari-a93148292)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/w8harshita)
 [![Email](https://img.shields.io/badge/EMAIL-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwaryharshitaa18@gmail.com)
 
