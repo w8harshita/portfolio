@@ -115,7 +115,7 @@ The portfolio uses a **dark futuristic / sci-fi terminal** aesthetic:
 
 📧 **tiwaryharshitaa18@gmail.com**  
 📞 **+91 8809019283**  
-🔗 **[linkedin.com/in/harshita-kumari](https://linkedin.com/in/harshita-kumari)**
+🔗 **[linkedin.com/in/harshita-kumari](https://linkedin.com/in/harshita-kumari18)**
 
 </div>
 
