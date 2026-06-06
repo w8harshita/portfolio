@@ -83,14 +83,6 @@ U-Net CNN in PyTorch for pixel-level semantic segmentation of roads from high-re
 </td>
 <td width="50%">
 
-### 📚 RAG Teaching Assistant
-Converts lecture videos into a searchable knowledge base using Whisper transcription + semantic embeddings + LLM prompting.
-
-[![GitHub](https://img.shields.io/badge/VIEW_CODE-181717?style=flat-square&logo=github)](https://github.com/w8harshita)
-
-</td>
-</tr>
-</table>
 
 ---
 
